@@ -3,8 +3,7 @@
 import { motion } from "framer-motion";
 import { useInView } from "framer-motion";
 import { useRef, useState } from "react";
-import { ExternalLink, Star } from "lucide-react";
-import { GitHubIcon } from "@/components/SocialIcons";
+import { ExternalLink } from "lucide-react";
 
 const projects = [
   {
